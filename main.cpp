@@ -7,7 +7,7 @@
 
 
 // Blinking rate in milliseconds
-#define BLINKING_RATE     900ms
+#define BLINKING_RATE     800ms
 
 
 int main()
